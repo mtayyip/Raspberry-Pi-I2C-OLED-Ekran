@@ -1,3 +1,8 @@
+/*
+ * drawExample.h
+ *  Author: MuhammetTayyipCankaya
+ *
+ */
 #ifndef DRAW_EXAMPLE_H
 #define DRAW_EXAMPLE_H
 
