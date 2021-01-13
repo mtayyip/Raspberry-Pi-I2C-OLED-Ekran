@@ -1,3 +1,8 @@
+/*
+ * drawExample.c
+ *  Author: MuhammetTayyipCankaya
+ *
+ */
 #include <stdio.h>
 #include <unistd.h>
 #include "oled96.h"
