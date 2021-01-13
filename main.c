@@ -1,4 +1,8 @@
-//
+/*
+ * main.c
+ *  Author: MuhammetTayyipCankaya
+ *
+ */
 #include <stdint.h>
 #include <string.h>
 #include <stdio.h>
